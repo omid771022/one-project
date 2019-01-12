@@ -1,0 +1,350 @@
+header{
+  background:url('../img/img/hero-bg.jpg');
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  width:100%;
+  height:100vh;
+  position:static;
+  color:white;
+
+
+
+}
+.logo{
+  height: 60vh;
+  display: flex;
+  width: 100%;
+justify-content: center;
+  align-items: center;
+}
+.titer{
+  text-align: center;
+  direction: rtl;
+font-family: "Iranian Sans";
+  color: #fff;
+}
+.button{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding:5%;
+
+
+}
+ul li a{
+color: white;
+    font-family:"Iranian Sans";
+
+}
+.overlays{
+  position:absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  opacity: .8;
+  background: rgb(13, 13, 14);
+}
+
+#up{
+    background-color:rgba(0, 0, 0, 0.85);
+}
+@font-face {
+    font-family:"Iranian Sans";
+    src: url(../font/iransans/iransans/IRANSansWeb.ttf);
+
+}
+.navbar-toggler-icon{
+    color: white;
+}
+#about{
+    text-align: center!important;
+    direction: rtl!important;
+    margin-top:10%;
+    font-family:"Iranian Sans";
+
+}
+.border{
+    background-color:#03C4EB;
+    width: 50px;
+    height: 6px;
+    margin: 0 auto;
+    margin-bottom:20px;
+}
+.text{
+    text-align: center;
+    direction: rtl;
+    font-family:"Iranian Sans";
+}
+#text1{
+    text-align: center;
+    direction: rtl;
+    font-family:"Iranian Sans";
+}
+#about1{
+    text-align: center!important;
+
+direction: rtl;
+    font-family:"Iranian Sans";
+
+}
+.all{
+    padding-bottom: 10%;
+}
+#section{
+background:linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../img/img/services-bg.jpg")fixed center center ;
+background-size: cover;
+
+
+}
+.serves{
+    text-align: center;
+    direction: rtl;
+    font-family: "Iranian Sans";
+    padding: 2% 1%;
+
+
+}
+.icon-title{
+    text-align: center;
+    direction: rtl;
+    font-family: "Iranian Sans";
+    margin-top: -3px;
+}
+
+/*start red*/
+.service-title {
+    margin-left: 80px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+.service-description{
+margin-left:80px;
+line-height:24px;
+}
+p {
+    padding: 0;
+    margin: 0 0 30px 0;
+}
+.service-icon{
+float: left;
+background: #03C4EB;
+padding: 16px;
+border-radius: 50%;
+transition: 0.5s;
+border: 1px solid #03C4EB;}
+.fa{
+    font-size: 25px;
+color: white;
+}
+/*
+end red*/
+#section2{
+    background:url("../img/img/subscribe-bg.jpg") fixed center center;
+    background-size:cover;
+
+}
+
+.p-h1{
+    direction: rtl;
+font-family: "Iranian Sans";
+    text-align:left;
+    color: white;
+
+
+}
+ .p-sub-title{
+     font-family: "Iranian Sans";
+     text-align:center;
+     color: white;
+
+
+ }
+ .col-text{
+     padding: 10% 0;
+ }
+ .btn-send{
+     justify-content: center;
+     align-items: center;
+     width:100%;
+     display:flex;
+
+ }
+.btn-send1{
+width: 50%;
+    border: 2px solid ;
+    font-weight: bold;
+    padding:10px 1px;
+    margin-bottom: 10px;
+
+}
+.row-col{
+    padding-bottom: 10%!important;
+}
+#portfolio{
+    text-align: center!important;
+    direction: rtl!important;
+    margin-top:10%;
+    font-family:"Iranian Sans";
+}
+.img{
+    border:5px solid white;
+}
+.conter{
+    margin-bottom: 10%;
+}
+#portfolio1{
+    padding: 10% 0 0 0;
+    text-align: center!important;
+    direction: rtl!important;
+    margin-top:10%;
+    font-family:"Iranian Sans";
+}
+.clint{
+    border: 3px solid white;
+    border-radius: 100px;
+
+    margin-bottom: 15px;
+    width: 200px ; height: 160px;
+}
+
+.cader{
+    margin-top: 20px;
+    background-color:#ffffff;
+    padding: 20px 10px;
+    vert-align: bottom;
+    text-align: center;
+    font-family: "Iranian Sans";
+    direction: rtl;
+}
+.clint-title{
+   color:#03C4EB;
+text-align: center;
+    font-family: "Iranian Sans";
+    direction: rtl;
+}
+.clint-sub{
+    text-align: center;
+    font-family: "Iranian Sans";
+    direction: rtl;
+}
+#section3{
+    background-color:#f6f6f6; margin-bottom: 10%;
+}
+#section4{
+
+}
+#portfolio2{
+    padding: 10% 0 0 0;
+    text-align: center!important;
+    direction: rtl!important;
+    margin-top:10%;
+    font-family:"Iranian Sans";
+}
+.mack1{
+    color: #666666;
+    text-align: center;
+    font-size: 15px;
+margin-left: 2%;
+}
+.text-title{
+    margin-top: 10px;
+    text-align: center;
+    font-family: "Iranian Sans";
+    direction: rtl;
+    color: #666666;
+}
+.sub{
+
+    text-align: center;
+    font-family: "Iranian Sans";
+    direction: rtl;
+    color: #666666;
+}
+.mack11{
+   display: flex;
+    width: 100%;
+    margin-left: 3px;
+    justify-content:center;
+    color: #666666;
+    margin-bottom: 10px;
+
+}
+
+#portfolio3{
+    padding: 10% 0 0 0;
+    text-align: center!important;
+    direction: rtl!important;
+    margin-top:10%;
+    font-family:"Iranian Sans";
+}
+#section5{
+    background-color:#f6f6f6;
+}
+.mack1{
+    display: block;
+
+}
+#form{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+
+.fa-map-marker {
+    color:#03C4EB;
+    font-size: 30px;
+
+}
+.fa-phone{
+    color:#03C4EB;
+    font-size: 30px;
+}
+
+
+
+.form-inline{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.fa-envelope{
+    color:#03C4EB;
+    font-size: 30px;
+}
+.fa-comment{
+    color:#03C4EB;
+    font-size: 30px;
+}
+.footer{
+    background-color: black;
+margin: 0;
+    padding: 0;
+}
+h5{
+    padding: 20px 0;
+    color:#03C4EB;
+text-align: center;
+}
+.color{
+    background-color:#03C4EB;
+    color: white;
+border-radius:0;
+    margin-left: 20%;
+    margin-bottom: 20%;
+}
+/*.btn-size{*/
+    /*width: 20%;*/
+/*}*/
+.btn-bor{
+    border: 2px solid white;
+}
+@media  only screen and (min-width: 0px) and (max-width: 767px) {
+.responsive{
+    display: none;
+}
+}
